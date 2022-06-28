@@ -1,0 +1,7 @@
+Django==1.11.2
+django-braces==1.11.0
+django-environ==0.4.3
+django-model-utils==3.0.0
+Pillow==4.1.1
+psycopg2==2.8.6
+stripe==1.65.0
